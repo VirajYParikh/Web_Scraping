@@ -3,7 +3,6 @@
 As an intern working with Octavate, I was tasked with writing web-scraping scripts in Python. I made use of scraping packages like Beautiful Soup - for simple websites and Selenium for dynamically changing websites. 
 
 Our objective was to extract data about artists under the various record labels. This data essentially comprised: 
-
 	1. Name
  
 	2. Social Media Links
