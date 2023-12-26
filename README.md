@@ -1,4 +1,4 @@
-# Web Scraping Music Record Labels for Analysis
+# Web Scraping Music Record Labels
 
 As an intern working with Octavate, I was tasked with writing web-scraping scripts in Python. I made use of scraping packages like Beautiful Soup - for simple websites and Selenium for dynamically changing websites. 
 
