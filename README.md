@@ -15,5 +15,5 @@ I was also tasked with creating a simple front end website to display all the ex
 
 This project taught me a lot about Web scraping tools like Selenium, Front End technologies like HTML, CSS and JS. 
 
-You can find some of the scripts that I wrote in this repository.![image](https://github.com/VirajYParikh/Web_Scraping/assets/67093208/a7513568-468a-4171-8919-8d2867e6ad74)
+You can find some of the scripts that I wrote in this repository.
 
