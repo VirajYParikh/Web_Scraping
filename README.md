@@ -14,9 +14,11 @@ The social media links we looked for could range from Spotify channels to Instag
 
 I completed a total of around 50 scripts whilst doing that. 
 
-I was also tasked with creating a simple front end website to display all the extracted data in a suitable and comprehensible manner. 
+I was also tasked with creating a simple front-end website to display all the extracted data in a suitable and comprehensible manner. 
 
-This project taught me a lot about Web scraping tools like Selenium, Front End technologies like HTML, CSS and JS. 
+This project taught me a lot about Web scraping tools like Selenium, and Front End technologies like HTML, CSS, and JS. 
 
 You can find some of the scripts that I wrote in this repository.
+
+
 
