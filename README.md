@@ -3,11 +3,12 @@
 As an intern working with Octavate, I was tasked with writing web-scraping scripts in Python. I made use of scraping packages like Beautiful Soup - for simple websites and Selenium for dynamically changing websites. 
 
 Our objective was to extract data about artists under the various record labels. This data essentially comprised: 
-	1. Name
+
+1. Name
  
-	2. Social Media Links
+2. Social Media Links
  
-	3. Music Genre
+3. Music Genre
 
 The social media links we looked for could range from Spotify channels to Instagram handles.
 
